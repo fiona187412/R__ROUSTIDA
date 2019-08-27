@@ -1,6 +1,6 @@
 # R__ROUSTIDA
 ## ROUSTIDA 代码 Roustdia.py
-## RSHISFA 代码  RSHIFA.py
+## RSHISFA 代码  RSHISFA.py
 ## DataSets 数据集
 * 包含5个数据集ZOO、Acute_Inflammations、Contraceptive、Heart、Lym
 ** 每个数据集都包含10个子文件，表示使用10个不同随机数做种子仅对条件属性产生一定的缺失比例后的缺失数据集
